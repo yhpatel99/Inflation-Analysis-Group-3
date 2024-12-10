@@ -32,7 +32,7 @@ Text Analysis:
 NLTK to extract phrases and contextual information around inflation-related terms from text-based data.
 Machine Learning:
 
-Random Forest Classifier to identify the significance of various factors in predicting inflation trends.
+Random Forest Classifier to identify the significance of various factors in predicting inflation trends. Tokenization
 Statistical Analysis:
 
 Using SciPy to calculate correlations, significance levels, and other metrics.
