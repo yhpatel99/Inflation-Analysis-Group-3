@@ -1,7 +1,7 @@
 Inflation Analysis Across Countries: Argentina, Zimbabwe, Sudan
 
 Project Overview
-This project delves into the topic of inflation across multiple countries, specifically focusing on Argentina, Zimbabwe, and Sudan in years 2019 t0 2024. Through thorough analysis, 
+This project delves into the topic of inflation across multiple countries, specifically focusing on Argentina, Zimbabwe, and Sudan in years 2019 to 2023. Through thorough analysis, 
 we utilized Python and various libraries to explore inflation trends, identify patterns, and investigate potential correlations among different factors.
 
 Visual Insights
