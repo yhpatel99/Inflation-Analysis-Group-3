@@ -1,0 +1,140 @@
+What Causes Inflation?
+Inflation can be caused by various factors, including increased production costs associated with raw materials, labor, or market disruptions. Higher demand can also lead to inflation, and certain fiscal and monetary policies, such as tax cuts or lower interest rates, are potential drivers as well.
+
+Central banks of developed economies, including the Federal Reserve in the U.S., monitor inflation. If inflation occurs too rapidly, it can push prices for basic necessities out of reach. Inflation also erodes consumer purchasing power, devalues currency, and can interfere with the ability to save.
+
+Key Takeaways
+Inflation can occur when prices rise due to increased production costs such as raw materials, labor costs, market disruptions, higher consumer demand, and fiscal and monetary policies.
+Inflation measures the rate of rising prices of goods and services in an economy.
+Some companies reap the rewards of inflation if they can charge more for their products due to the high demand for their goods.
+What Is Inflation?
+Inflation is the rate at which the price of goods and services increases over time. It can affect nearly any product or service, including need-based expenses such as housing, food, medical care, and utilities, as well as want-based expenses such as cosmetics, automobiles, and jewelry. Once inflation becomes prevalent throughout an economy, the expectation of further inflation becomes an overriding concern in the consciousness of consumers and businesses.
+
+Inflation can also be thought of as the devaluation of money. It can be a concern because it makes money saved in the present less valuable in the future. Inflation erodes both purchasing power and the value of investments. For example, if an investor earned 5% from investments in stocks and bonds, but the inflation rate was 3%, the investor only earned 2% in real terms.
+
+There are many potential root causes of inflation:
+
+Cost-push inflation
+Demand-pull inflation
+Built-in inflation
+The housing market
+Expansionary monetary and fiscal policy
+Monetary devaluation
+Factors That Influence Inflation
+Investopedia / Ellen Lindner
+
+Cost-Push Inflation?
+Cost-push inflation occurs when prices rise because production costs, such as raw materials and wages, increase. The demand for goods remains unchanged, while the supply of goods declines due to the higher costs of production. As a result, the added production costs are passed onto consumers through higher prices for the finished goods.
+
+One sign of possible cost-push inflation is rising commodity prices of major production inputs, such as oil and metals. For example, if the price of copper rises, companies that use copper to make their products might increase the prices of their goods. If the demand for the product is independent of the demand for copper, the business will pass on the higher costs of raw materials to consumers. The result is higher prices for consumers without any change in demand for the products consumed.
+
+Wages also affect the cost of production and are typically the single biggest expense for businesses. When the economy is performing well, and the unemployment rate is low, labor or worker shortages can occur. Companies, in turn, increase wages to attract qualified candidates, causing production costs to rise. If the company raises prices due to the rise in employee wages, cost-plus inflation occurs.
+
+Natural disasters can also drive prices higher. For example, if a hurricane destroys a crop such as corn, prices can rise across the economy since corn is used in many products.
+
+Demand-Pull Inflation
+Demand-pull inflation can be caused by strong consumer demand for a product or service. When there's a surge in demand for a wide breadth of goods across an economy, their prices tend to increase. While this is not often a concern for short-term imbalances of supply and demand, sustained demand can reverberate in the economy and raise costs for other goods, resulting in demand-pull inflation.
+
+Consumer confidence tends to be high when unemployment is low and wages are rising—leading to more spending. Economic expansion has a direct impact on the level of consumer spending in an economy which can lead to high demand for products and services.
+
+As the demand for a particular good or service increases, the available supply decreases. When fewer items are available, consumers are willing to pay more to obtain the item—as outlined in the economic principle of supply and demand. The result is higher prices due to demand-pull inflation.
+
+Companies also play a role in inflation, especially if they manufacture popular products. A company can raise prices simply because consumers are willing to pay the increased amount. Corporations also raise prices freely when the item for sale is something consumers need for everyday existence, such as oil and gas. However, it's the demand from consumers that provide corporations with the leverage to raise prices.
+
+Built-In Inflation and Rising Wages
+Built-in inflation occurs when enough people expect inflation to continue in the future. As the price of goods and services rises, people may come to believe in a continuous rise in the future at a similar rate. Because of these shared expectations, workers may start to demand higher wages to anticipate rising prices and maintain their standard of living. Increased wages would result in higher business costs, which may pass those costs on to consumers.
+
+Higher wages also increase consumers' disposable income, increasing the demand for goods that can push prices even higher. A wage-price spiral can then be set in place as one factor feeds back into the other and vice-versa.
+
+Housing Market
+The housing market has seen its ups and downs over the years. If homes are in demand because the economy is experiencing an expansion, home prices will rise. The demand also impacts ancillary products and services that support the housing industry. Construction products such as lumber and steel, as well as the nails and rivets used in homes, might all see increases in demand resulting from higher demand for homes.
+
+Expansionary Fiscal and Monetary Policy
+Government expansionary fiscal policy can increase discretionary income for both businesses and consumers. If a government cuts taxes, businesses may spend the money on capital improvements, employee compensation, or new hiring. Consumers may also purchase more goods. The government could also stimulate the economy by increasing spending on infrastructure projects. The result could be increased demand for goods and services, leading to price increases.
+
+Just as expansionary fiscal policy can spur inflation, so too can loose monetary policy. Expansionary monetary policy by central banks can lower interest rates. Central banks like the Federal Reserve can lower the cost for banks to lend, which allows banks to lend more money to businesses and consumers. The increased money available throughout the economy leads to more spending and demand for goods and services.
+
+Monetary Devaluation
+Monetarists understand inflation to be caused by too many dollars chasing too few goods. In other words, the supply of money has grown too large. According to this theory, money's value is subject to the law of supply and demand, just like any other good in the market. As the supply grows, the value goes down. If the value of money goes down, its purchasing power drops and things become relatively more expensive.
+1
+
+This quantity theory of money (QTM) can be summarized in the equation of exchange, which states that the money supply, multiplied by the rate at which money is spent per year (the velocity of money), equals the nominal expenditures in the economy: MV = PQ. P (prices) can thus go up as the money supply increases and/or the velocity of money increases (given a constant quantity of goods in the economy).
+2
+
+Money can also lose value due to a general lack of confidence or trust in the issuer of the money. In this case, hyperinflation may even set it as the money is seen as lacking value altogether.
+
+How to Protect Your Finances During Inflation
+High inflation is generally negative, hurting both consumers and businesses. There are, however, some ways to protect against inflation:
+
+Lock in low fixed interest rates: A 30-year mortgage at a low fixed interest rate is protected against inflation. Look to borrow when interest rates are low and consider refinancing when rates drop.
+Invest in stocks: Stock markets tend to do relatively better than bonds in a high-inflation environment, as many companies pass on higher costs to consumers to protect profits. Firms that produce commodities or staple goods are often good bets. Bonds, on the other hand, see their prices go down as interest rates rise along with inflation.
+Buy inflation-protected securities: Some financial products are linked to inflation (often via changes in CPI), such as Treasury Inflation-Protected Securities, or TIPS, which adjust prices to offset inflation. Some permanent life insurance products and annuities may also have an option to be adjusted for inflation, often in the form of a cost of living adjustment (COLA) rider.
+3
+Save at high interest rates: Use high interest rates to save money in money market accounts or CDs at more favorable yields. Note, however, that if the yield proves to be lower than the inflation rate, you'll still lose buying power.
+Buy an inflation hedge: Certain assets, such as gold and real estate, are thought to be good hedges against inflation, increasing in value along with a general rise in prices.
+Own rental real estate: When inflation hits, landlords can often raise the rent to keep pace. If you have an income property with a fixed-rate mortgage, this can greatly improve your bottom line.
+Measures of Inflation
+Consumer Price Index (CPI)
+A few metrics are used to measure the inflation rate. One of the most popular is the Consumer Price Index (CPI), which measures prices for a basket of economic goods and services, including food, cars, education, and recreation. Therefore, changes in the prices of this basket approximate prices across the whole economy. The CPI is often the economic indicator of choice used for measuring inflation.
+
+While the CPI measures the price changes for retail goods and other items paid by consumers, it does not include things like savings and investments and will often exclude spending by foreign visitors.
+4
+
+Producer Price Index (PPI)
+Another measure of inflation is the Producer Price Index (PPI) which reports the price changes that affect domestic producers. The PPI measures prices for fuel, farm products (meats and grains), chemical products, and metals. If the price increases that cause the PPI to spike get passed onto consumers, it will be reflected in the Consumer Price Index.
+
+PPI measures inflation from the viewpoint of the producers, which is the average selling price they receive for their output over a period of time. Meanwhile, CPI measures prices from the standpoint of the consumer.
+4
+5
+
+GDP Deflator
+The U.S. Bureau of Economic Analysis (BEA) uses the gross domestic product (GDP) deflator (also known as the GDP price deflator) as an additional indicator of the level of U.S. inflation. The GDP deflator measures the aggregate prices of all goods and services produced by the nation, encompassing the CPI and PPI statistics.
+6
+
+Personal Consumption Expenditures (PCE) Price Index
+The personal consumption expenditures (PCE) index is another measure of inflation that tracks price changes in the amount spent on consumer goods and services exchanged in the U.S. economy. The PCE Price Index is composed of a broad range of expenditures far larger than the basket of goods used in the CPI, and it is weighted by data provided by regular business surveys, which tend to be more reliable than the consumer surveys used by the CPI.
+7
+
+
+In 2012, the PCE Price Index became the primary inflation index used by the U.S. Federal Reserve when making monetary policy decisions.
+8
+
+
+Why Has Inflation Been so High?
+The early 2020s saw high inflationary pressures drive up costs for consumer goods, particularly food and energy. Prior to 2020, CPI increased at a rate of approximately 2% on an annual basis. In 2021, this metric began to climb rapidly, hitting a peak of 8.99% in June 2022. Since then, the CPI has cooled down, and as of September 2024, the inflation measure stands at 2.4%.
+9
+
+The cause of the high rate of inflation can be attributed in large part to market disruptions caused by the COVID-19 pandemic. Examples include increased demand for consumer goods, reductions in manufacturing and shipping capacity nationwide and globally, and increased labor costs.
+
+Consumer demand was stimulated, in part, due to high levels of fiscal spending and monetary policy enacted to mitigate the economic impacts of the public health emergency. Supply of goods tightened as trade restrictions and shelter-in-place delayed production and transportation. As economies opened back up in 2021 and beyond, low unemployment put upward pressure on wages and, thus, prices.
+
+Many parts of the globe experienced the same inflationary pressures in 2022—179 out of 194 countries—and in most nations inflation has eased as it has in the U.S. Parts of Africa and the East still have high inflation—in Angola and Ghana the rate is about 22%, for example, and in Mongolia and Bangladesh, it's over 9%. But according to the IMF, inflation in most regions of the world is falling faster than expected and should drop to 5.8% globally in 2024.
+10
+
+How Can We Stop Inflation?
+Governments have many tools at their disposal to control inflation. Most often, a central bank may choose to increase interest rates. This is a contractionary monetary policy that makes credit more expensive, reducing the money supply and curtailing individual and business spending. Fiscal measures like raising taxes can also reduce inflation. Historically, governments have also implemented measures like price controls to cap costs for specific goods, with limited success.
+
+Who Benefits From Inflation?
+In general, inflation benefits borrowers with lower fixed interest rates and owners of assets that rise along with inflation. The relative costs of servicing these debts become less expensive with inflation.
+
+Investors can enjoy a boost if they hold assets in inflation-promoting markets. For example, those who are invested in energy companies might see a rise in their stock prices if energy prices are rising. Often, value stocks perform better than growth stocks during inflationary periods.
+11
+
+Who Is Hurt by Inflaton?
+Inflation tends to harm the general population, particularly people trying to save and borrow money. Savers see their cash deposits eroded of purchasing power, while those who loan money at lower fixed interest rates are stuck with less valuable loans until they mature.
+
+Inflation can harm shoppers, as goods become more expensive. Lower-income consumers are most affected, as they tend to spend a higher proportion of their income on necessities than those with higher incomes and thus have less of a cushion against the loss of purchasing power inherent in inflation.
+
+Can Companies Benefit From Inflation?
+Some companies reap the rewards of inflation if they can charge more for their products due to a surge in demand. For example, if the economy is performing well and housing demand is high, home-building companies can charge higher prices for selling homes.
+
+In other words, inflation can give businesses pricing power and increase their profit margins. If profit margins are rising, it means the prices that companies charge for their products are increasing faster than increases in production costs.
+
+Also, business owners can deliberately withhold supplies from the market, allowing prices to rise favorably. However, companies can also be hurt by inflation if it results from a surge in production costs. Companies are at risk if they cannot pass on the higher costs to consumers through higher prices. If foreign competition, for example, is unaffected by the production cost increases, their prices wouldn't need to rise. As a result, U.S. companies might have to eat the higher production costs, otherwise, risk losing customers to foreign-based companies.
+
+The Bottom Line
+Inflation occurs when prices rise in an economy and/or the purchasing power of money loses value. Economists have identified several possible causes for inflation, from rising wages to increased aggregate demand and money supply.
+
+In 2022, inflation rates in the U.S. and worldwide rose to their highest levels since the early 1980s.
+12
+ While there is no single reason for this rapid rise in global prices, a series of events worked together to boost inflation in its latest cycle, including the repercussions of the COVID-19 pandemic, Russia's unprovoked invasion of Ukraine, and the shock to energy and food prices that resulted.
